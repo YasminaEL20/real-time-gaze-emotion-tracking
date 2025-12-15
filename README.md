@@ -159,7 +159,12 @@ Contributing
 
 License & contact
 -
-Specify your license here (e.g., MIT) and provide contact details if desired.
+License: MIT License
+
+Copyright (c) 2025 Yasmina Elmansouri
+
+Contact:
+- Primary: yasmina.elmansouri@etu.uae.ac.ma
+- Secondary: elmansouriyasmina2000@gmail.com
 
 ---
-If you want, I can now commit these README changes and push them to `origin main`.
