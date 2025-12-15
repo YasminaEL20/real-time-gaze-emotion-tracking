@@ -1,0 +1,5 @@
+venv/
+computer_vision/
+__pycache__/
+gaze_data.csv
+*.pyc
